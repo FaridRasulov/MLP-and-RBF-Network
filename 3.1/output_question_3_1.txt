@@ -1,0 +1,16 @@
+This is homework 1: question 3_1
+Number of neurons: 24
+rho parameter: 0.000100
+stopping criteria: Early Stopping Rule
+Initial Training Error: 0.058450
+Final Training Error: 0.034162
+Final Test Error: 0.020431
+Training computing time: 76.769 sec
+number of iterations: 51
+number of epochs: 10
+Function evaluations: 510
+Gradient evaluations: 510
+norm of gradient at the optimal point: 51.245906
+
+
+
