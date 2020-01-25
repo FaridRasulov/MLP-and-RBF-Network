@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-In this project we will implement neural networks to solve a regression problem. Our goal is that of reconstructing in the region [−2,2] × [−1,1] a two dimensional function F : R2 → R. We do not have the analytic expression of the function, only a data set obtained by randomly sampling 300 points. We split the data set in two parts: 85% of the points were taken for the training set and 15% for the test set, using one of our student identification number numbers as a seed number, in this case 1870543.
+In this project we will implement neural networks to solve a regression problem. Our goal is that of reconstructing in the region [−2,2] × [−1,1] a two dimensional function F : R2 → R. We do not have the analytic expression of the function, only a data set obtained by randomly sampling 300 points. We split the data set in two parts: 85% of the points were taken for the training set and 15% for the test set. We are going to 1870543 as a seed number.
 
 ## Question 1.1        
 
