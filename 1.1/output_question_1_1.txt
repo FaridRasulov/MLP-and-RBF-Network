@@ -1,0 +1,13 @@
+This is homework 1: question 1_1
+Number of neurons: 24
+sigma parameter: 2.4
+rho parameter: 0.000100
+Method:BFGS
+Function evaluations: 21952
+Gradient evaluations: 224
+Number of iterations: 221
+Training time: 3.138606 sec
+Training error: 0.001328
+Test error: 0.000627
+Validation error: 0.003808
+norm of gradient at the optimal point: 63.536955
